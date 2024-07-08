@@ -14,7 +14,7 @@
 
 -   Software Engineer
 -   Quantitative Developer
--   Venture Capitalist
+-   Venture Capital Associate
 
 ## 🚀 Projects:
 [](https://github.com/shah-aryan/shah-aryan/blob/main/README.md#-projects)
