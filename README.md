@@ -60,8 +60,8 @@ Developed a synchronous limit order book simulator in Python. Featured trade mat
 
 [](https://github.com/shah-aryan/shah-aryan/blob/main/README.md#-contact-me)
 
--   **Email**:  [aryan.shah@example.com](mailto:aryan.shah@example.com)
--   **LinkedIn**:  [Aryan Shah](https://www.linkedin.com/in/aryan-shah)
+-   **Email**:  [aryan.shah@example.com](mailto:shahary@umich.edu)
+-   **LinkedIn**:  [Aryan Shah](www.linkedin.com/in/aryanshah1)
 
 ----------
 
