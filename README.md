@@ -37,7 +37,7 @@ Developed "Analyrics," a full-stack web application with a lyrics analysis datab
 **App Development**
 Developed and launched 4 game Scouting and Pit Scouting apps on iOS and Android. Streamlined, democratized, and improved data collection and analysis, with a successful reception of 150+ downloads.
 
-**Order Books**
+**Financial Markets Infrastructure**
 Developed a synchronous limit order book simulator in Python. Featured trade matching, order execution, TCP/UDP connection protocol, and MVC (Model, View, Controller) structure.
 
 ## 🔧 Skills:
