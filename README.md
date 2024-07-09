@@ -6,7 +6,7 @@
 [](https://github.com/shah-aryan/shah-aryan/blob/main/README.md#-education)
 
 -   Bachelor of Science in Computer Science with a Minor in Mathematics from the University of Michigan
--   Bachelor of Business Administration from the University of Michigan
+-   Bachelor of Business Administration from the University of Michigan Ross School of Business
 
 ## 💼 Experience:
 
