@@ -19,6 +19,9 @@
 ## 🚀 Projects:
 [](https://github.com/shah-aryan/shah-aryan/blob/main/README.md#-projects)
 
+**Analyrics**
+Developed "Analyrics," a full-stack web application with a lyrics analysis database of over 1 million songs, artists, and albums. Utilized MongoDB, Express.js, React, Tailwind, RESTful APIs, and Node.js to create its iconic Bento box UI/UX design.
+
 **Full-Stack Applications**
 Led the development of a full-stack HR-technology web application using React, Django, PostgreSQL, Docker, Redis, and AWS hosting. Employed agile methods with engineers and contractors to ensure scalability, performance, and exceptional user experience.
 
@@ -30,9 +33,6 @@ Created an ML portfolio rebalancing algorithm, managing a $20,000 portfolio for 
 
 **Venture Capital**
 Sourced 15 high-growth companies for technology-oriented growth equity investments ranging from $100M to $500M. Contributed to the successful deployment of $6.2 billion in capital.
-
-**Analyrics**
-Developed "Analyrics," a full-stack web application with a lyrics analysis database of over 1 million songs, artists, and albums. Utilized MongoDB, Express.js, React, Tailwind, RESTful APIs, and Node.js to create its iconic Bento box UI/UX design.
 
 **App Development**
 Developed and launched 4 game Scouting and Pit Scouting apps on iOS and Android. Streamlined, democratized, and improved data collection and analysis, with a successful reception of 150+ downloads.
