@@ -1,5 +1,14 @@
+Sure, here is the updated version:
+
 ## 👋 Hi, I'm Aryan Shah!
 [](https://github.com/shah-aryan/shah-aryan/blob/main/README.md#-hi-im-aryan-shah)
+
+## 🔍 What Am I Doing Right Now?
+
+-   **Lead Software Engineer at Predica**: Leading development of a full-stack HR technology web app.
+-   **Building Analyrics**: Finishing up my side project at [analyrics.info](http://analyrics.info).
+-   **Self-Studying**: Currently focusing on linear algebra.
+-   **Recruiting**: Seeking software engineering internships for Summer 2025.
 
 ## 🎓 Education:
 
@@ -45,8 +54,6 @@ Developed a synchronous limit order book simulator in Python. Featured trade mat
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,python,js,ts,java,kotlin,swift,postgres,mongodb,androidstudio,git,github,selenium)
 
 ![My Skills](https://skillicons.dev/icons?i=react,tailwind,css,html,d3,django,docker,express,threejs,vite,bootstrap,npm,nextjs,nodejs,postman,redis,kubernetes,aws,netlify,heroku,vercel)
-
-
 
 ## 🌱 Interests:
 
