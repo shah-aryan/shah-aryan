@@ -1,5 +1,3 @@
-Sure, here is the updated version:
-
 ## 👋 Hi, I'm Aryan Shah!
 [](https://github.com/shah-aryan/shah-aryan/blob/main/README.md#-hi-im-aryan-shah)
 
