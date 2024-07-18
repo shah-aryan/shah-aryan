@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Aryan Shah!
 [](https://github.com/shah-aryan/shah-aryan/blob/main/README.md#-hi-im-aryan-shah)
-Check out my personal website [here](https://aryanshah.vercel.app).
 
 ## 🔍 What Am I Doing Right Now?
 
