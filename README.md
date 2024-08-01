@@ -3,7 +3,7 @@
 
 ## 🔍 What Am I Doing Right Now?
 
--   **Lead Software Engineer at Predica**: Leading development of a full-stack HR technology web app.
+-   **Software Engineer at Predica**: Leading development of a full-stack HR technology web app.
 -   **Building Analyrics**: Finishing up my project at [analyrics.info](http://analyrics.info), a full-stack web application with a lyrics analysis database of over 1 million songs, artists, and albums. Utilized MongoDB, Express.js, React, Tailwind, RESTful APIs, and Node.js to create its iconic Bento box UI/UX design.
 -   **Self-Studying**: Currently focusing on linear algebra in order to dive deep into ML soon.
 -   **Recruiting**: Seeking software engineering internships for Summer 2025.
