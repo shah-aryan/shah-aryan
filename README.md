@@ -69,6 +69,4 @@ Developed a synchronous limit order book simulator in Python. Featured trade mat
 -   **Email**:  [shahary@umich.edu](mailto:shahary@umich.edu)
 -   **LinkedIn**:  [Aryan Shah](https://www.linkedin.com/in/aryanshah1/)
 
-----------
 
-**“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
